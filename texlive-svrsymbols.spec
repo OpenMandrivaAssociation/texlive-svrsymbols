@@ -1,6 +1,6 @@
 Name:		texlive-svrsymbols
 Version:	50019
-Release:	1
+Release:	2
 Summary:	A font with symbols for use in physics texts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/svrsymbols
