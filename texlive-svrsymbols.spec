@@ -3,7 +3,7 @@ Version:	50019
 Release:	2
 Summary:	A font with symbols for use in physics texts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/svrsymbols
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/svrsymbols
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/svrsymbols.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/svrsymbols.doc.r%{version}.tar.xz
